@@ -1,32 +1,30 @@
 package classe.desafios;
 
 public class DesafioData {
-	Byte dia;
-	Byte mes;
-	Short ano;
-	DesafioData(byte diaInicial, byte mesInicial, short anoInicial) {
-		dia = diaInicial;
-		mes = mesInicial;
-		ano = anoInicial;
+	public Byte dia;
+	public Byte mes;
+	public Short ano;
+	DesafioData(byte dia, byte mes, short ano) {
+		this.dia = dia;
+		this.mes = mes;
+		this.ano = ano;
 	}
-	DesafioData(int diaInicial,int mesInicial, int anoInicial){
-		this((byte)diaInicial,(byte)mesInicial,(short)anoInicial);
+	public DesafioData(int dia,int mes, int ano){
+		this((byte)dia,(byte)mes,(short)ano);
 	}
 	DesafioData(){
-		dia = 1;
-		mes = 1;
-		ano = 1970;
+		this(1,1,1970);
 	}
 	
-	String obterDataFormatada() {
+	public String obterDataFormatada() {
 		String dataFormatada = "";
 			
-		dataFormatada += dia < 10 ? "0" + dia : dia.toString();
+		dataFormatada += this.dia < 10 ? "0" + this.dia : this.dia.toString();
 		dataFormatada += "/";
-		dataFormatada += mes < 10 ? "0" + mes : mes.toString();
+		dataFormatada += this.mes < 10 ? "0" + this.mes : this.mes.toString();
 		dataFormatada += "/";
-		if(ano < 10)
-			dataFormatada += "000" + ano;
+		if(this.ano < 10)
+			dataFormatada += "000" + this.ano;
 		else if(ano >= 10 && ano < 100)
 			dataFormatada += "00" + ano;
 		else if(ano >= 100 && ano < 1000)
