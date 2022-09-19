@@ -1,4 +1,4 @@
-package fundamentos;
+package fundamentos.desafios;
 
 public class Temperatura {
 	public static void main(String[] args) {
