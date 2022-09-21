@@ -7,6 +7,9 @@ Neste repositório está concentrado todos os códigos aprendidos em aula, além
 Aulas feitas (além de exercícios propostos e desafios):
 
 
+Legenda:<br>
+✅ - Aula assistida/Módulo feito<br>
+❌ - Aula pendente/Módulo A fazer...<br>
 
 <table cellpadding="0" cellspacing="0">
     <thead>
@@ -17,303 +20,493 @@ Aulas feitas (além de exercícios propostos e desafios):
     </thead>
     <tbody>
         <tr>
-            <td><input type="checkbox" checked disabled> Visão geral de Algoritmos</td>
-            <td><input type="checkbox" disabled></td>
+            <td>✅ Visão geral de Algoritmos</td>
+            <th>👨🏻‍💻Projeto Campo Minado (usando JUnit 5)🎮💣☕</th>
         </tr>
         <tr>
-            <td><input type="checkbox" checked disabled> Visão geral de Estrutura de dados</td>
-            <td><input type="checkbox" disabled> Projeto Campo Minado (Usando JUnit 5)</td>
+            <td>✅ Visão geral de Estrutura de dados</td>
+            <td>❌ Introdução e Criando o Projeto</td>
         </tr>
         <tr>
-            <td><input type="checkbox" checked disabled> Usando o Terminal</td>
-            <td><input type="checkbox" disabled> Java Desktop (Usando Swing)</td>
+            <td>✅ Usando o Terminal</td>
+            <td>❌ Configurando JUnit</td>
         </tr>
         <tr>
-            <td><input type="checkbox" checked disabled> Configuração do ambiente em si</td>
-            <td><input type="checkbox" disabled> Java Desktop (Usando JavaFX)</td>
+            <td>✅ Configuração do ambiente em si</td>
+            <td>❌ Entendendo o jogo Campo Minado🎮💣</td>
         </tr>
         <tr>
-            <td><input type="checkbox" checked disabled> Criação de um novo projeto (usando Eclipse)</td>
-            <td><input type="checkbox" disabled> Java Persistence API (JPA)</td>
+            <td>✅ Criação de um novo projeto (usando Eclipse)</td>
+            <td>❌ Classe Campo (Atributos, add vizinhos, abrir campo, etc)</td>
         </tr>
         <tr>
-            <td><input type="checkbox" checked disabled> Primeiro programa</td>
-            <td><input type="checkbox" disabled> Conceitos Sobre WEB</td>
+            <td>✅ Primeiro programa</td>
+            <td>❌ Classe Tabuleiro</td>
         </tr>
         <tr>
-            <td><input type="checkbox" checked disabled> Organização (e desafios)</td>
-            <td><input type="checkbox" disabled> Spring Boot + Hibernate</td>
+            <td>✅ Organização (e desafios)</td>
+            <td>❌ Exibir todos os campos</td>
         </tr>
         <tr>
-            <td><input type="checkbox" checked disabled> Comentários nos códigos em Java</td>
-            <td><input type="checkbox" disabled> Banco de dados RELACIONAL com Java</td>
+            <td>✅ Comentários nos códigos em Java</td>
+            <td>❌ Correção na distribuição das minhas💣</td>
         </tr>
         <tr>
-            <td><input type="checkbox" checked disabled> Variáveis e Constantes (Fora os desafios)</td>
-            <td><input type="checkbox" disabled> Banco de dados NÃO RELACIONAL com Java</td>
+            <td>✅ Variáveis e Constantes (Fora os desafios)</td>
+            <td>❌ Melhorando Método toString</td>
         </tr>
         <tr>
-            <td><input type="checkbox" checked disabled> Inferência de Tipos</td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Inferência de Tipos</td>
+            <td></td>
         </tr>
         <tr>
-            <td><input type="checkbox" checked disabled> Tipos primitivos</td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Tipos primitivos</td>
+            <th>👨🏻‍💻Java Desktop com Swing☕</th>
         </tr>
         <tr>
-            <td><input type="checkbox" checked disabled> Notação Ponto</td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Notação Ponto</td>
+            <td>❌ Introdução</td>            
         </tr>
         <tr>
-            <td><input type="checkbox" checked disabled> Import's</td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Import's</td>
+            <td>❌ Padrão Observer👀</td>            
         </tr>
         <tr>
-            <td><input type="checkbox" checked disabled> Tipo String</td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Tipo String</td>
+            <td>❌ Padrão Observer no Swing👀☕</td>            
         </tr>
         <tr>
-            <td><input type="checkbox" checked disabled> Console (entrada de dados)</td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Console (entrada de dados)</td>
+            <td>❌ Campo Minado com Observer👀💣</td>            
         </tr>
         <tr>
-            <td><input type="checkbox" checked disabled> Objeto vs Primitivo</td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Objeto vs Primitivo</td>
+            <td>❌ Interface gráfica do Campo Minado🎮💣</td>
         </tr>
         <tr>
-            <td><input type="checkbox" checked disabled> Wrappers</td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Wrappers</td>
+            <td>❌ Tela Principal de Calculadora 🧮</td>
         </tr>
         <tr>
-            <td>
-                <input type="checkbox" checked disabled> 
-                Conversão entre tipos primitivos (além dos desafios)
-            </td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Conversão entre tipos primitivos (além dos desafios)</td>
+            <td>❌ Criando os componentes Display e Teclado</td>
         </tr>
         <tr>
-            <td>
-                <input type="checkbox" checked disabled> 
-                Conversão de tipos primitivos para String e vice-versa (além dos desafios)
-            </td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Conversão de tipos primitivos para String e vice-versa (além dos desafios)</td>
+            <td>❌ Componente Display</td>
         </tr>
         <tr>
-            <td>
-                <input type="checkbox" checked disabled> 
-                Introdução a Operadores no Java, Operadores Aritméticos, lógicos, relacionais, atribuição, unários, 
-                ternários, etc. (além de exercícios e desafios)
-            </td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Introdução a Operadores no Java, Operadores Aritméticos, lógicos, relacionais, atribuição,  unários,ternários, etc. (além de exercícios e desafios)</td>
+            <td>❌ Componente Botão</td>
         </tr>
         <tr>
-            <td><input type="checkbox" checked disabled> Comparação de Strings</td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Comparação de Strings</td>
+            <td>❌ Componente Teclado</td>
         </tr>
         <tr>
-            <td>
-                <input type="checkbox" checked disabled>
-                Java Runtime Environment vs Java Development Kit<br>
-                Entendendo a diferença entre JRE vs JDK
-            </td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Java Runtime Environment vs Java Development Kit<br>Entendendo a diferença entre JRE vs JDK</td>
+            <td>❌ Implementação da lógica da Calculadora</td>
         </tr>
         <tr>
-            <td>
-                <input type="checkbox" checked disabled> 
-                java vs javac (compilando e executando código que foi feito 
-                usando um bloco de notas ou outro editor qualquer)
-            </td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ java vs javac (compilando e executando código que foi feito usando um bloco de notas ou outro editor qualquer)</td>
+            <td></td>
         </tr>
         <tr>
-            <td>
-                <input type="checkbox" checked disabled>
-                Estrutura de decisão utilizando o IF, ELSE IF e ELSE (fora os exercícios e desafios)
-            </td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Estrutura de decisão utilizando o IF, ELSE IF e ELSE (fora os exercícios e desafios)</td>
+            <th>👨🏻‍💻Java Desktop com JavaFX☕</th>
         </tr>
         <tr>
-            <td>
-                <input type="checkbox" checked disabled>
-                Estrutura de repetição utilizando o WHILE (Além de exercícios e desafios)
-            </td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Estrutura de repetição utilizando o WHILE (Além de exercícios e desafios)</td>
+            <td>❌ Introdução</td>
         </tr>
         <tr>
-            <td>
-                <input type="checkbox" checked disabled>
-                Estrutura de repetição utilizando o FOR (Além de exercícios e desafios)
-            </td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Estrutura de repetição utilizando o FOR (Além de exercícios e desafios)</td>
+            <td>❌ Configuração do Ambiente</td>
         </tr>
         <tr>
-            <td>
-                <input type="checkbox" checked disabled> 
-                Estrutura de decisão utilizando o SWITCH (Além de exercícios e desafios propostos)
-            </td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Estrutura de decisão utilizando o SWITCH (Além de exercícios e desafios propostos)</td>
+            <td>❌ Contador</td>
         </tr>
         <tr>
-            <td><input type="checkbox" checked disabled> 
-                Uso do BREAK e CONTINUE nas estruturas de repetições, para parada de código ou "pular para o próximo".
-                <br>Inclusive, neste módulo teve desafio para a criação de um jogo muito simples, onde o usuário 
-                tinha que advinhar um número aleatório gerado...
-            </td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Uso do BREAK e CONTINUE nas estruturas de repetições, para parada de código ou "pular para o próximo".
+                <br>Inclusive, neste módulo teve desafio para a criação de um jogo muito simples, onde o usuário tinha que advinhar um número aleatório gerado...</td>
+            <td>❌ Trocando Scenes (cenas)</td>
         </tr>
         <tr>
-            <td><input type="checkbox" checked disabled> Revisão sobre classe e sobre métodos</td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Revisão sobre classe e sobre métodos</td>
+            <td>❌ Gerenciadores de Layout</td>
         </tr>
         <tr>
-            <td><input type="checkbox" checked disabled> Classe vs Objeto</td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Classe vs Objeto</td>
+            <td>❌ Anchor Pane</td>
         </tr>
         <tr>
-            <td>
-                <input type="checkbox" checked disabled> 
-                Classe Produto como exemplo prático e classe Data como exercício
-            </td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅Classe Produto como exemplo prático e classe Data como exercício</td>
+            <td>❌ Border Pane</td>
         </tr>
         <tr>
-            <td>
-                <input type="checkbox" checked disabled>
-                Entendendo mais sobre métodos e apresentando exemplos práticos, além dos exercícios propostos.
-            </td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Entendendo mais sobre métodos e apresentando exemplos práticos, além dos exercícios propostos.</td>
+            <td>❌ Flow Pane</td>
         </tr>
         <tr>
-            <td><input type="checkbox" checked disabled> Construtores de classes (e exercícios)</td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Construtores de classes (e exercícios)</td>
+            <td>❌ Grid Pane</td>
         </tr>
         <tr>
-            <td>
-                <input type="checkbox" checked disabled>
-                Membros de classes e membros de instância (Além dos exercícios propostos)
-            </td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Membros de classes e membros de instância (Além dos exercícios propostos)</td>
+            <td>❌ Stack Pane</td>
         </tr>
         <tr>
-            <td>
-                <input type="checkbox" checked disabled> 
-                Entendendo os conceitos de valor vs referência (Além dos exercícios práticos propostos)
-            </td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Entendendo os conceitos de valor vs referência (Além dos exercícios práticos propostos)</td>
+            <td>❌ Tile Pane</td>
         </tr>
         <tr>
-            <td>
-                <input type="checkbox" checked disabled>
-                Resolvendo um desafio que foi o primeiro trauma do professor *¹
-            </td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Resolvendo um desafio que foi o primeiro trauma do professor *¹</td>
+            <td>❌ FXML Config</td>
         </tr>
         <tr>
-            <td>
-                <input type="checkbox" checked disabled>
-                this e this(), chamando métodos e construtores da própria classe (Além dos exercícios práticos propostos)
-            </td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ this e this(), chamando métodos e construtores da própria classe (Além dos exercícios práticos propostos)</td>
+            <td>❌ Adicionando Controles</td>
         </tr>
         <tr>
-            <td>
-                <input type="checkbox" checked disabled> 
-                Variáveis locais, variáveis de instância e variáveis de classe (Além dos exercícios práticos propostos)
-            </td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Variáveis locais, variáveis de instância e variáveis de classe (Além dos exercícios práticos propostos)</td>
+            <td>❌ Login Controller</td>
         </tr>
         <tr>
-            <td>
-                <input type="checkbox" checked disabled>
-                Valores padrões de variáveis de tipos primitivos e valores nulos de referências de objetos
-                (Além dos exercícios práticos propostos)
-            </td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Valores padrões de variáveis de tipos primitivos e valores nulos de referências de objetos
+                (Além dos exercícios práticos propostos)</td>
+            <td>❌ Usando CSS com FXML</td>
         </tr>
         <tr>
-            <td>
-                <input type="checkbox" checked disabled>
-                exercícios práticos: Criação de uma classe pessoa, comida e jantar, 
-                onde a pessoa come a comida e o seu peso aumenta conforme o peso da comida...
-            </td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ exercícios práticos: Criação de uma classe pessoa, comida e jantar, 
+                onde a pessoa come a comida e o seu peso aumenta conforme o peso da comida...</td>
+            <td>❌ Ajustando Layout</td>
         </tr>
         <tr>
-            <td>
-                <input type="checkbox" disabled>
-                Introdução a Arrays e Collections
-            </td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Introdução a Arrays e Collections</td>
+            <td>❌ Adicionando Margens</td>
         </tr>
         <tr>
-            <td>
-                <input type="checkbox" disabled> 
-                Arrays e Collections: Arrays de referências, Arrays de tipos primitivos e exercícios práticos propostos
-            </td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Arrays e Collections: Arrays de referências, Arrays de tipos primitivos e exercícios práticos propostos</td>
+            <td>❌ Usando ControlsFX</td>
         </tr>
         <tr>
-            <td><input type="checkbox" disabled> Usando o Foreach...</td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Usando o Foreach...</td>
+            <td>❌ Calculadora</td>
         </tr>
         <tr>
-            <td><input type="checkbox" disabled> Entendento sobre Matrizes.</td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Entendento sobre Matrizes.</td>
+            <td></td>
         </tr>
         <tr>
-            <td>
-                <input type="checkbox" disabled> 
-                Entendendo sobre Equals e Hashcode, além da prática com exercícios propostos.
-            </td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Entendendo sobre Equals e Hashcode, além da prática com exercícios propostos.</td>
+            <th>👨🏻‍💻☕Spring Boot + Conceitos sobre WEB🍃🌎</th>
         </tr>
         <tr>
-            <td>
-                <input type="checkbox" disabled>
-                Collections, Set e List, além de exercícios práticos propostos.
-            </td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Collections, Set e List, além de exercícios práticos propostos.</td>
+            <td>❌ </td>
         </tr>
         <tr>
-            <td>
-                <input type="checkbox" disabled> 
-                Entendendo mais sobre Queue (fila) e Stack (pilha), numa coleção, lista ou array.
-            </td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Entendendo mais sobre Queue (fila) e Stack (pilha), numa coleção, lista ou array.</td>
+            <td>❌ </td>
         </tr>
         <tr>
-            <td>
-                <input type="checkbox" disabled> 
-                Entendendo sobre Map. E filtando dados na coleção, lista ou array. Além de exercícios práticos propostos.
-            </td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Entendendo sobre Map. E filtando dados na coleção, lista ou array. Além de exercícios práticos propostos.</td>
+            <td>❌ </td>
         </tr>
         <tr>
-            <td>
-                <input type="checkbox" disabled>
-                Usando Equals e Hashcode para comparar Coleções e Arrays, além de exercícios práticos propostos.
-            </td>
-            <td><input type="checkbox" disabled> </td>
-        </tr>
-<!--
-        <tr>
-            <td>
-                <input type="checkbox" checked disabled> 
-            </td>
-            <td><input type="checkbox" disabled> </td>
+            <td>✅ Usando Equals e Hashcode para comparar Coleções e Arrays, além de exercícios práticos propostos.</td>
+            <td>❌ </td>
         </tr>
         <tr>
-            <td>
-                <input type="checkbox" checked disabled> 
-            </td>
-            <td><input type="checkbox" disabled> </td>
+            <td>❌ Introdução à Orientação a Objetos</td>
+            <td>❌ </td>
         </tr>
         <tr>
-            <td>
-                <input type="checkbox" checked disabled> 
-            </td>
-            <td><input type="checkbox" disabled> </td>
+            <td>❌ Reuso via composição (e também desafios)</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Relacionamento um para um</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Relacionamento um para muitos</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Relacionamento muitos para muitos</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Paradigmas</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Pilares</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Enum</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Herança (E desafios)</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Modificadores de Acesso (E desafios)</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Getters & Setters</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Polimorfismo (E desafios)</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Interface e Classe Abstrata (E desafios)</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Introdução a Lambdas</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Primeira função lambda (ou funçã anônima)</td>
+            <td>❌</td>
+        </tr>
+        <tr>
+            <td>❌ Interfaces Funcionais</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Predicate</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Supplier</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Unary Operator</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Binary Operator & BiFunction (além dos desafios)</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Interfaces funcionais (utilizada do Java 7 para trás, nas versões mais antigas do Java)</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Introdução ao Stream API para seu uso nas coleções </td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ List/Iterator/Stream</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Tipos de Operações</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Criando Stream</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Map e Filter (Além dos desafios)</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Reduce</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Match (All, Any & None)</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Min e Max</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Outros métodos utilizados no Stream API.</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Introdução à Tratamento de Erros</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Tipos de erros</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Pilha de métodos</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ O básico sobre Excessão</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Excessão Checada vs Excessão não checada</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Excessão Personalizada (Além dos desafios)</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Finally</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Excessão causadora</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Introdução sobre Generics</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Exemplo basico COM e SEM generics</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Generics e Herança</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Generics em Métodos</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Criando uma estrutura Chave/Valor com Generics</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Comparable em Generics</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Introdução à Banco de dados com JDBC</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Abrindo uma conexão</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Criando Bancos de dados (Com Java)</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Fábrica de Conexões</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Criação de Tabelas (Com Java)</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Criação, consultas, atualizações e remoções de registros de uma tabela, com Java (fora os desafios)</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Externalizando dados de Conexão</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌ Padrão DAO</td>
+            <td>❌ </td>
+        </tr>
+        <!-- 
+            TODO:  
+            * Java Persistence API (JPA)
+            * Modularidade em Java
+            * Conceitos sobre WEB
+            * Spring Boot
+        <tr>
+            <td>❌</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌</td>
+            <td>❌ </td>
+        </tr>
+        <tr>
+            <td>❌</td>
+            <td>❌ </td>
         </tr>
 -->
     </tbody>
@@ -321,6 +514,76 @@ Aulas feitas (além de exercícios propostos e desafios):
 *¹ - Segundo a explicação do professor, o trauma deve se deu por conta que ele estava tentando acessar um membro de
 instância, mas sem instanciar a classe, isso a partir do método *main*, sendo um método estático. Então, ele não estava
 conseguindo nem compilar e executar o código dele...
+<table cellpadding="0" cellspacing="0">
+    <thead>
+        <tr>
+            <th colspan="2">Módulos Bônus: Bancos de dados</th>
+        </tr>
+        <tr>
+            <th>Relacional (SQL)</th>
+            <th>Projetos com Frameworks</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>❌ Introdução à Bancos de dados relacionais (com MySQL)</td>
+            <td>❌ Introdução à Bancos de dados não-relacionais (com MongoDB)</td>
+        </tr>
+        <tr>
+            <td>❌ Modelo E/R</td>
+            <td>❌ Relacional vs Não-relacional (e exemplos)</td>
+        </tr>
+        <tr>
+            <td>❌ Chave Primária</td>
+            <td>❌ Comandos básicos</td>
+        </tr>
+        <tr>
+            <td>❌ Relacionamentos</td>
+            <td>❌ Inserção de dados (E desafios)</td>
+        </tr>
+        <tr>
+            <td>❌ Visão Geral de SQL</td>
+            <td>❌ Consultas de dados</td>
+        </tr>
+        <tr>
+            <td>❌ Criação de Schemas</td>
+            <td>❌ Atualização de dados (Update)</td>
+        </tr>
+        <tr>
+            <td>❌ Visão Geral do Modelo</td>
+            <td>❌ Remoção de dados (Remove)</td>
+        </tr>
+        <tr>
+            <td>❌ Criação da tabela de Estados + inserção, consulta, atualização e remoção dos dados</td>
+            <td>❌ Inserir Empresas</td>
+        </tr>
+        <tr>
+            <td>❌ Criação da tabela Cidades + inserção dos dados</td>
+            <td>❌ Consulta com Lookup</td>
+        </tr>
+        <tr>
+            <td>❌ Consulta de múltiplas tabelas (JOIN) e seus tipos</td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td>❌ Criação da tabela Prefeitos + inserção dos dados</td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td>❌ Explorando os tipos de JOIN's</td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td>❌ Criação da tabela Empresas + inserção dos dados</td>
+            <td> </td>
+        </tr>
+        <tr>
+            <td>❌ Consultar Empresas e Cidades</td>
+            <td> </td>
+        </tr>
+    </tbody>
+</table>
+
 
 
 ### Atenção: este 'README' ainda tem muitas coisas para serem adicionadas, então, fique atento a atualizações futuras.
