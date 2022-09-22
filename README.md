@@ -200,315 +200,264 @@ Legenda:<br>
         </tr>
         <tr>
             <td>✅ Entendendo sobre Equals e Hashcode, além da prática com exercícios propostos.</td>
-            <th>👨🏻‍💻☕Spring Boot + Conceitos sobre WEB🍃🌎</th>
+            <th>👨🏻‍💻☕ JPA + Conceitos sobre WEB🌎 + Spring Boot🍃</th>
         </tr>
         <tr>
             <td>✅ Collections, Set e List, além de exercícios práticos propostos.</td>
-            <td>❌ </td>
+            <td>❌ Introdução à JPA</td>
         </tr>
         <tr>
             <td>✅ Entendendo mais sobre Queue (fila) e Stack (pilha), numa coleção, lista ou array.</td>
-            <td>❌ </td>
+            <td>❌ Padrões de Persistência com JPA</td>
         </tr>
         <tr>
             <td>✅ Entendendo sobre Map. E filtando dados na coleção, lista ou array. Além de exercícios práticos propostos.</td>
-            <td>❌ </td>
+            <td>❌ Active Record</td>
         </tr>
         <tr>
             <td>✅ Usando Equals e Hashcode para comparar Coleções e Arrays, além de exercícios práticos propostos.</td>
-            <td>❌ </td>
+            <td>❌ Object Relational Map (ORM)</td>
         </tr>
         <tr>
-            <td>❌ Introdução à Orientação a Objetos</td>
-            <td>❌ </td>
+            <td>✅ Introdução à Orientação a Objetos</td>
+            <td>❌ Configurações do Projeto e Arquivo "persistence.xml"</td>
         </tr>
         <tr>
-            <td>❌ Reuso via composição (e também desafios)</td>
-            <td>❌ </td>
+            <td>✅ Reuso via composição (e também desafios)</td>
+            <td>❌ Entidade Usuário (Diretamente do ORM) + CRUD</td>
         </tr>
         <tr>
-            <td>❌ Relacionamento um para um</td>
-            <td>❌ </td>
+            <td>✅ Relacionamento um para um</td>
+            <td>❌ Entidade Produto (Também diretamente do ORM) + CRUD</td>
         </tr>
         <tr>
             <td>❌ Relacionamento um para muitos</td>
-            <td>❌ </td>
+            <td>❌ Data Access Object (DAO)</td>
         </tr>
         <tr>
             <td>❌ Relacionamento muitos para muitos</td>
-            <td>❌ </td>
+            <td>❌ Relacionamentos com ORM (um para um, um para muitos, muitos para muitos)</td>
         </tr>
         <tr>
             <td>❌ Paradigmas</td>
-            <td>❌ </td>
+            <td>❌ Named Query & Named Native Query</td>
         </tr>
         <tr>
             <td>❌ Pilares</td>
-            <td>❌ </td>
+            <td>❌ Embeddable</td>
         </tr>
         <tr>
             <td>❌ Enum</td>
-            <td>❌ </td>
+            <td>❌ Herança (fora o desafio)</td>
         </tr>
         <tr>
             <td>❌ Herança (E desafios)</td>
-            <td>❌ </td>
+            <td>❌ Introdução à WEB</td>
         </tr>
         <tr>
             <td>❌ Modificadores de Acesso (E desafios)</td>
-            <td>❌ </td>
+            <td>❌ Protocolo HTTP</td>
         </tr>
         <tr>
             <td>❌ Getters & Setters</td>
-            <td>❌ </td>
+            <td>❌ Servidor WEB</td>
         </tr>
         <tr>
             <td>❌ Polimorfismo (E desafios)</td>
-            <td>❌ </td>
+            <td>❌ Client Side vs Server Side</td>
         </tr>
         <tr>
             <td>❌ Interface e Classe Abstrata (E desafios)</td>
-            <td>❌ </td>
+            <td>❌ Conteúdo estático vs Conteúdo dinâmico</td>
         </tr>
         <tr>
             <td>❌ Introdução a Lambdas</td>
-            <td>❌ </td>
+            <td>❌ HTML, CSS e JavaScript (breve introdução)</td>
         </tr>
         <tr>
             <td>❌ Primeira função lambda (ou funçã anônima)</td>
-            <td>❌</td>
+            <td>❌ DNS</td>
         </tr>
         <tr>
             <td>❌ Interfaces Funcionais</td>
-            <td>❌ </td>
+            <td>❌ HTTP Seguro (Protocolo HTTPS)</td>
         </tr>
         <tr>
             <td>❌ Predicate</td>
-            <td>❌ </td>
+            <td>❌ Web Service</td>
         </tr>
         <tr>
             <td>❌ Supplier</td>
-            <td>❌ </td>
+            <td>❌ Computação em núvem</td>
         </tr>
         <tr>
             <td>❌ Unary Operator</td>
-            <td>❌ </td>
+            <td>❌ Introdução ao Spring Boot</td>
         </tr>
         <tr>
             <td>❌ Binary Operator & BiFunction (além dos desafios)</td>
-            <td>❌ </td>
+            <td>❌ Criando projeto Spring Boot</td>
         </tr>
         <tr>
             <td>❌ Interfaces funcionais (utilizada do Java 7 para trás, nas versões mais antigas do Java)</td>
-            <td>❌ </td>
+            <td>❌ Importando Projeto Maven</td>
         </tr>
         <tr>
             <td>❌ Introdução ao Stream API para seu uso nas coleções </td>
-            <td>❌ </td>
+            <td>❌ Maven & POM.XML</td>
         </tr>
         <tr>
             <td>❌ List/Iterator/Stream</td>
-            <td>❌ </td>
+            <td>❌ Executando projeto Spring Boot</td>
         </tr>
         <tr>
             <td>❌ Tipos de Operações</td>
-            <td>❌ </td>
+            <td>❌ Primeiro Web Service</td>
         </tr>
         <tr>
             <td>❌ Criando Stream</td>
-            <td>❌ </td>
+            <td>❌ Simulando Erros</td>
         </tr>
         <tr>
             <td>❌ Map e Filter (Além dos desafios)</td>
-            <td>❌ </td>
+            <td>❌ Web Service retornando Objeto</td>
         </tr>
         <tr>
             <td>❌ Reduce</td>
-            <td>❌ </td>
+            <td>❌ Formato JSON</td>
         </tr>
         <tr>
             <td>❌ Match (All, Any & None)</td>
-            <td>❌ </td>
+            <td>❌ Métodos HTTP (GET, POST, PUT, DELETE, dentre outros)</td>
         </tr>
         <tr>
             <td>❌ Min e Max</td>
-            <td>❌ </td>
+            <td>❌ Usando Postman</td>
         </tr>
         <tr>
             <td>❌ Outros métodos utilizados no Stream API.</td>
-            <td>❌ </td>
+            <td>❌ Passando parâmetros para Web Services</td>
         </tr>
         <tr>
             <td>❌ Introdução à Tratamento de Erros</td>
-            <td>❌ </td>
+            <td>❌ Desafio: Web Service de Calculadora</td>
         </tr>
         <tr>
             <td>❌ Tipos de erros</td>
-            <td>❌ </td>
+            <td>❌ Padrão MVC</td>
         </tr>
         <tr>
             <td>❌ Pilha de métodos</td>
-            <td>❌ </td>
+            <td>❌ Configuração JPA</td>
         </tr>
         <tr>
             <td>❌ O básico sobre Excessão</td>
-            <td>❌ </td>
+            <td>❌ CRUD Produtos</td>
         </tr>
         <tr>
             <td>❌ Excessão Checada vs Excessão não checada</td>
-            <td>❌ </td>
+            <td>❌ Injeção de Dependências 💉</td>
         </tr>
         <tr>
             <td>❌ Excessão Personalizada (Além dos desafios)</td>
-            <td>❌ </td>
+            <td>❌ Desafio: Novos Atributos</td>
         </tr>
         <tr>
             <td>❌ Finally</td>
-            <td>❌ </td>
+            <td>❌ Simplificando  inserção de produtos</td>
         </tr>
         <tr>
             <td>❌ Excessão causadora</td>
-            <td>❌ </td>
+            <td>❌ Aplicando Validação Simples</td>
         </tr>
         <tr>
             <td>❌ Introdução sobre Generics</td>
-            <td>❌ </td>
+            <td>❌ Consultando Produtos: Todos eles ou um deles pelo ID</td>
         </tr>
         <tr>
             <td>❌ Exemplo basico COM e SEM generics</td>
-            <td>❌ </td>
+            <td>❌ Alterando e excluindo produtos</td>
         </tr>
         <tr>
             <td>❌ Generics e Herança</td>
-            <td>❌ </td>
+            <td>❌ Consulta paginada</td>
         </tr>
         <tr>
             <td>❌ Generics em Métodos</td>
-            <td>❌ </td>
+            <td>❌ Consulta de produtos <strong>por nome</strong></td>
         </tr>
         <tr>
             <td>❌ Criando uma estrutura Chave/Valor com Generics</td>
-            <td>❌ </td>
+            <td>❌ Mais Consultas</td>
         </tr>
         <tr>
             <td>❌ Comparable em Generics</td>
-            <td>❌ </td>
+            <td></td>
         </tr>
         <tr>
             <td>❌ Introdução à Banco de dados com JDBC</td>
-            <td>❌ </td>
+            <td></td>
         </tr>
         <tr>
             <td>❌ Abrindo uma conexão</td>
-            <td>❌ </td>
+            <td></td>
         </tr>
         <tr>
             <td>❌ Criando Bancos de dados (Com Java)</td>
-            <td>❌ </td>
+            <td></td>
         </tr>
         <tr>
             <td>❌ Fábrica de Conexões</td>
-            <td>❌ </td>
+            <td></td>
         </tr>
         <tr>
             <td>❌ Criação de Tabelas (Com Java)</td>
-            <td>❌ </td>
+            <td></td>
         </tr>
         <tr>
             <td>❌ Criação, consultas, atualizações e remoções de registros de uma tabela, com Java (fora os desafios)</td>
-            <td>❌ </td>
+            <td></td>
         </tr>
         <tr>
             <td>❌ Externalizando dados de Conexão</td>
-            <td>❌ </td>
+            <td></td>
         </tr>
         <tr>
             <td>❌ Padrão DAO</td>
-            <td>❌ </td>
-        </tr>
-        <!-- 
-            TODO:  
-            * Java Persistence API (JPA)
-            * Modularidade em Java
-            * Conceitos sobre WEB
-            * Spring Boot
-        <tr>
-            <td>❌</td>
-            <td>❌ </td>
+            <td></td>
         </tr>
         <tr>
-            <td>❌</td>
-            <td>❌ </td>
+            <td>❌ Introdução sobre Modularidade em Java</td>
+            <td></td>
         </tr>
         <tr>
-            <td>❌</td>
-            <td>❌ </td>
+            <td>❌ Módulo vs Encapsulamento</td>
+            <td></td>
         </tr>
         <tr>
-            <td>❌</td>
-            <td>❌ </td>
+            <td>❌ Criando Projetos</td>
+            <td></td>
         </tr>
         <tr>
-            <td>❌</td>
-            <td>❌ </td>
+            <td>❌ Dependência entre Projetos</td>
+            <td></td>
         </tr>
         <tr>
-            <td>❌</td>
-            <td>❌ </td>
+            <td>❌ Requires/Exports, Requires Transitive e Exports To</td>
+            <td></td>
         </tr>
         <tr>
-            <td>❌</td>
-            <td>❌ </td>
+            <td>❌ Módulos e Reflection</td>
+            <td></td>
         </tr>
         <tr>
-            <td>❌</td>
-            <td>❌ </td>
+            <td>❌ Interface vs Implementação</td>
+            <td></td>
         </tr>
         <tr>
-            <td>❌</td>
-            <td>❌ </td>
+            <td>❌ Provides With & Uses</td>
+            <td></td>
         </tr>
-        <tr>
-            <td>❌</td>
-            <td>❌ </td>
-        </tr>
-        <tr>
-            <td>❌</td>
-            <td>❌ </td>
-        </tr>
-        <tr>
-            <td>❌</td>
-            <td>❌ </td>
-        </tr>
-        <tr>
-            <td>❌</td>
-            <td>❌ </td>
-        </tr>
-        <tr>
-            <td>❌</td>
-            <td>❌ </td>
-        </tr>
-        <tr>
-            <td>❌</td>
-            <td>❌ </td>
-        </tr>
-        <tr>
-            <td>❌</td>
-            <td>❌ </td>
-        </tr>
-        <tr>
-            <td>❌</td>
-            <td>❌ </td>
-        </tr>
-        <tr>
-            <td>❌</td>
-            <td>❌ </td>
-        </tr>
-        <tr>
-            <td>❌</td>
-            <td>❌ </td>
-        </tr>
--->
     </tbody>
 </table>
 *¹ - Segundo a explicação do professor, o trauma deve se deu por conta que ele estava tentando acessar um membro de
@@ -586,4 +535,5 @@ conseguindo nem compilar e executar o código dele...
 
 
 
-### Atenção: este 'README' ainda tem muitas coisas para serem adicionadas, então, fique atento a atualizações futuras.
+### Atenção: este 'README' está sendo atualizado DIAÁRIAMENTE, com as mudanças de status de aulas assistidas ou módulos concluídos...
+### Fique atento às atualizações!
