@@ -231,11 +231,11 @@ Legenda:<br>
             <td>❌ Entidade Produto (Também diretamente do ORM) + CRUD</td>
         </tr>
         <tr>
-            <td>❌ Relacionamento um para muitos</td>
+            <td>✅ Relacionamento um para muitos</td>
             <td>❌ Data Access Object (DAO)</td>
         </tr>
         <tr>
-            <td>❌ Relacionamento muitos para muitos</td>
+            <td>✅ Relacionamento muitos para muitos</td>
             <td>❌ Relacionamentos com ORM (um para um, um para muitos, muitos para muitos)</td>
         </tr>
         <tr>
@@ -470,7 +470,7 @@ conseguindo nem compilar e executar o código dele...
         </tr>
         <tr>
             <th>Relacional (SQL)</th>
-            <th>Projetos com Frameworks</th>
+            <th>Não-relacional (NoSQL)</th>
         </tr>
     </thead>
     <tbody>
@@ -535,5 +535,5 @@ conseguindo nem compilar e executar o código dele...
 
 
 
-### Atenção: este 'README' está sendo atualizado DIAÁRIAMENTE, com as mudanças de status de aulas assistidas ou módulos concluídos...
+### Atenção: este 'README' está sendo atualizado DIÁRIAMENTE, com as mudanças de status de aulas assistidas ou módulos concluídos...
 ### Fique atento às atualizações!
