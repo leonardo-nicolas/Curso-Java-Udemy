@@ -14,11 +14,14 @@ Legenda:<br>
 <table cellpadding="0" cellspacing="0">
     <thead>
         <tr>
+            <th colspan="2">Os módulos de ☕Java☕ em si...</th>
+        </tr>
+        <tr>
             <th>Fundamentos</th>
             <th>Projetos com Frameworks</th>
         </tr>
     </thead>
-    <tbody>
+    <tbody style="vertical-align:middle">
         <tr>
             <td>✅ Visão geral de Algoritmos</td>
             <th>👨🏻‍💻Projeto Campo Minado (usando JUnit 5)🎮💣☕</th>
@@ -239,224 +242,257 @@ Legenda:<br>
             <td>❌ Relacionamentos com ORM (um para um, um para muitos, muitos para muitos)</td>
         </tr>
         <tr>
-            <td>❌ Paradigmas</td>
+            <td rowspan="10"> <strong>Paradigmas</strong>
+                <ul>
+                    <li>✅ Imperativo</li>
+                    <li>✅ Funcional</li>
+                    <li>✅ Orientação a Objetos</li>
+                    <li>✅ Declarativo</li>
+                    <li>✅ Orientação a eventos</li>
+                    <li>✅ Lógico</li>
+                </ul>
+            </td>
             <td>❌ Named Query & Named Native Query</td>
         </tr>
         <tr>
-            <td>❌ Pilares</td>
-            <td>❌ Embeddable</td>
-        </tr>
-        <tr>
-            <td>❌ Enum</td>
-            <td>❌ Herança (fora o desafio)</td>
-        </tr>
-        <tr>
-            <td>❌ Herança (E desafios)</td>
             <td>❌ Introdução à WEB</td>
-        </tr>
         <tr>
-            <td>❌ Modificadores de Acesso (E desafios)</td>
             <td>❌ Protocolo HTTP</td>
         </tr>
         <tr>
-            <td>❌ Getters & Setters</td>
             <td>❌ Servidor WEB</td>
         </tr>
         <tr>
-            <td>❌ Polimorfismo (E desafios)</td>
             <td>❌ Client Side vs Server Side</td>
         </tr>
         <tr>
-            <td>❌ Interface e Classe Abstrata (E desafios)</td>
             <td>❌ Conteúdo estático vs Conteúdo dinâmico</td>
         </tr>
         <tr>
-            <td>❌ Introdução a Lambdas</td>
             <td>❌ HTML, CSS e JavaScript (breve introdução)</td>
         </tr>
         <tr>
-            <td>❌ Primeira função lambda (ou funçã anônima)</td>
+            <td>❌ Embeddable</td>
+        </tr>
+        <tr>
             <td>❌ DNS</td>
         </tr>
         <tr>
-            <td>❌ Interfaces Funcionais</td>
             <td>❌ HTTP Seguro (Protocolo HTTPS)</td>
         </tr>
         <tr>
-            <td>❌ Predicate</td>
+            <td rowspan="7"> <strong>Pilares</strong>
+                <ul>
+                    <li>✅ Encapsulamento</li>
+                    <li>✅ Herança</li>
+                    <li>✅ Polimorfismo</li>
+                    <li>❌ Abstração</li>
+                </ul>
+            </td>
             <td>❌ Web Service</td>
         </tr>
         <tr>
-            <td>❌ Supplier</td>
-            <td>❌ Computação em núvem</td>
+            <td>❌ Computação em nuvem</td>
         </tr>
         <tr>
-            <td>❌ Unary Operator</td>
             <td>❌ Introdução ao Spring Boot</td>
         </tr>
         <tr>
-            <td>❌ Binary Operator & BiFunction (além dos desafios)</td>
             <td>❌ Criando projeto Spring Boot</td>
         </tr>
         <tr>
-            <td>❌ Interfaces funcionais (utilizada do Java 7 para trás, nas versões mais antigas do Java)</td>
             <td>❌ Importando Projeto Maven</td>
         </tr>
         <tr>
-            <td>❌ Introdução ao Stream API para seu uso nas coleções </td>
             <td>❌ Maven & POM.XML</td>
         </tr>
         <tr>
-            <td>❌ List/Iterator/Stream</td>
-            <td>❌ Executando projeto Spring Boot</td>
-        </tr>
-        <tr>
-            <td>❌ Tipos de Operações</td>
             <td>❌ Primeiro Web Service</td>
         </tr>
         <tr>
-            <td>❌ Criando Stream</td>
+            <td>❌ Herança (fora o desafio)</td>
             <td>❌ Simulando Erros</td>
         </tr>
         <tr>
-            <td>❌ Map e Filter (Além dos desafios)</td>
+            <td>❌ Enum</td>
             <td>❌ Web Service retornando Objeto</td>
         </tr>
         <tr>
-            <td>❌ Reduce</td>
+            <td>❌ Herança (E desafios)</td>
             <td>❌ Formato JSON</td>
         </tr>
         <tr>
-            <td>❌ Match (All, Any & None)</td>
+            <td>❌ Modificadores de Acesso (E desafios)</td>
             <td>❌ Métodos HTTP (GET, POST, PUT, DELETE, dentre outros)</td>
         </tr>
         <tr>
-            <td>❌ Min e Max</td>
+            <td>❌ Getters & Setters</td>
             <td>❌ Usando Postman</td>
         </tr>
         <tr>
-            <td>❌ Outros métodos utilizados no Stream API.</td>
+            <td>❌ Executando projeto Spring Boot</td>
             <td>❌ Passando parâmetros para Web Services</td>
         </tr>
         <tr>
-            <td>❌ Introdução à Tratamento de Erros</td>
+            <td>❌ Polimorfismo (E desafios)</td>
             <td>❌ Desafio: Web Service de Calculadora</td>
         </tr>
         <tr>
-            <td>❌ Tipos de erros</td>
+            <td>❌ Interface e Classe Abstrata (E desafios)</td>
             <td>❌ Padrão MVC</td>
         </tr>
         <tr>
-            <td>❌ Pilha de métodos</td>
+            <td>❌ Introdução a Lambdas</td>
             <td>❌ Configuração JPA</td>
         </tr>
         <tr>
-            <td>❌ O básico sobre Excessão</td>
+            <td>❌ Primeira função lambda (ou funçã anônima)</td>
             <td>❌ CRUD Produtos</td>
         </tr>
         <tr>
-            <td>❌ Excessão Checada vs Excessão não checada</td>
+            <td>❌ Interfaces Funcionais</td>
             <td>❌ Injeção de Dependências 💉</td>
         </tr>
         <tr>
-            <td>❌ Excessão Personalizada (Além dos desafios)</td>
+            <td>❌ Predicate</td>
             <td>❌ Desafio: Novos Atributos</td>
         </tr>
         <tr>
-            <td>❌ Finally</td>
+            <td>❌ Supplier</td>
             <td>❌ Simplificando  inserção de produtos</td>
         </tr>
         <tr>
-            <td>❌ Excessão causadora</td>
+            <td>❌ Unary Operator</td>
             <td>❌ Aplicando Validação Simples</td>
         </tr>
         <tr>
-            <td>❌ Introdução sobre Generics</td>
+            <td>❌ Binary Operator & BiFunction (além dos desafios)</td>
             <td>❌ Consultando Produtos: Todos eles ou um deles pelo ID</td>
         </tr>
         <tr>
-            <td>❌ Exemplo basico COM e SEM generics</td>
+            <td>❌ Interfaces funcionais (utilizada do Java 7 para trás, nas versões mais antigas do Java)</td>
             <td>❌ Alterando e excluindo produtos</td>
         </tr>
         <tr>
-            <td>❌ Generics e Herança</td>
+            <td>❌ Introdução ao Stream API para seu uso nas coleções</td>
             <td>❌ Consulta paginada</td>
         </tr>
         <tr>
-            <td>❌ Generics em Métodos</td>
+            <td>❌ List/Iterator/Stream</td>
             <td>❌ Consulta de produtos <strong>por nome</strong></td>
         </tr>
         <tr>
-            <td>❌ Criando uma estrutura Chave/Valor com Generics</td>
+            <td>❌ Tipos de Operações</td>
             <td>❌ Mais Consultas</td>
         </tr>
         <tr>
+            <td>❌ Criando Stream</td>
+            <td rowspan="36"></td>
+        </tr>
+        <tr>
+            <td>❌ Map e Filter (Além dos desafios)</td>
+        </tr>
+        <tr>
+            <td>❌ Reduce</td>
+        </tr>
+        <tr>
+            <td>❌ Match (All, Any & None)</td>
+        </tr>
+        <tr>
+            <td>❌ Min e Max</td>
+        </tr>
+        <tr>
+            <td>❌ Outros métodos utilizados no Stream API.</td>
+        </tr>
+        <tr>
+            <td>❌ Introdução à Tratamento de Erros</td>
+        </tr>
+        <tr>
+            <td>❌ Tipos de erros</td>
+        </tr>
+        <tr>
+            <td>❌ Pilha de métodos</td>
+        </tr>
+        <tr>
+            <td>❌ O básico sobre Excessão</td>
+        </tr>
+        <tr>
+            <td>❌ Excessão Checada vs Excessão não checada</td>
+        </tr>
+        <tr>
+            <td>❌ Excessão Personalizada (Além dos desafios)</td>
+        </tr>
+        <tr>
+            <td>❌ Finally</td>
+        </tr>
+        <tr>
+            <td>❌ Excessão causadora</td>
+        </tr>
+        <tr>
+            <td>❌ Introdução sobre Generics</td>
+        </tr>
+        <tr>
+            <td>❌ Exemplo basico COM e SEM generics</td>
+        </tr>
+        <tr>
+            <td>❌ Generics e Herança</td>
+        </tr>
+        <tr>
+            <td>❌ Generics em Métodos</td>
+        </tr>
+        <tr>
+            <td>❌ Criando uma estrutura Chave/Valor com Generics</td>
+        </tr>
+        <tr>
             <td>❌ Comparable em Generics</td>
-            <td></td>
         </tr>
         <tr>
             <td>❌ Introdução à Banco de dados com JDBC</td>
-            <td></td>
         </tr>
         <tr>
             <td>❌ Abrindo uma conexão</td>
-            <td></td>
         </tr>
         <tr>
             <td>❌ Criando Bancos de dados (Com Java)</td>
-            <td></td>
         </tr>
         <tr>
             <td>❌ Fábrica de Conexões</td>
-            <td></td>
         </tr>
         <tr>
             <td>❌ Criação de Tabelas (Com Java)</td>
-            <td></td>
         </tr>
         <tr>
             <td>❌ Criação, consultas, atualizações e remoções de registros de uma tabela, com Java (fora os desafios)</td>
-            <td></td>
         </tr>
         <tr>
             <td>❌ Externalizando dados de Conexão</td>
-            <td></td>
         </tr>
         <tr>
             <td>❌ Padrão DAO</td>
-            <td></td>
         </tr>
         <tr>
             <td>❌ Introdução sobre Modularidade em Java</td>
-            <td></td>
         </tr>
         <tr>
             <td>❌ Módulo vs Encapsulamento</td>
-            <td></td>
         </tr>
         <tr>
             <td>❌ Criando Projetos</td>
-            <td></td>
         </tr>
         <tr>
             <td>❌ Dependência entre Projetos</td>
-            <td></td>
         </tr>
         <tr>
             <td>❌ Requires/Exports, Requires Transitive e Exports To</td>
-            <td></td>
         </tr>
         <tr>
             <td>❌ Módulos e Reflection</td>
-            <td></td>
         </tr>
         <tr>
             <td>❌ Interface vs Implementação</td>
-            <td></td>
         </tr>
         <tr>
             <td>❌ Provides With & Uses</td>
-            <td></td>
         </tr>
     </tbody>
 </table>
@@ -512,23 +548,19 @@ conseguindo nem compilar e executar o código dele...
         </tr>
         <tr>
             <td>❌ Consulta de múltiplas tabelas (JOIN) e seus tipos</td>
-            <td> </td>
+            <td rowspan="5"> </td>
         </tr>
         <tr>
             <td>❌ Criação da tabela Prefeitos + inserção dos dados</td>
-            <td> </td>
         </tr>
         <tr>
             <td>❌ Explorando os tipos de JOIN's</td>
-            <td> </td>
         </tr>
         <tr>
             <td>❌ Criação da tabela Empresas + inserção dos dados</td>
-            <td> </td>
         </tr>
         <tr>
             <td>❌ Consultar Empresas e Cidades</td>
-            <td> </td>
         </tr>
     </tbody>
 </table>
